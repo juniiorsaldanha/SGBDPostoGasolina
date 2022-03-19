@@ -10,6 +10,6 @@
 - Mostrar a rua, número e bairro dos posto que fornecem o tipo de combutivel "Diesel"; 
 - Mostrar o nome do funcionário e o cnpj do posto em que o mesmo trabalha;  
 
-#Visões
+# Visões
 
 - Mostrar o nome do cliente e o litros abastecidos por ele, ordenado em ordem crescente de litros abastecidos. 
